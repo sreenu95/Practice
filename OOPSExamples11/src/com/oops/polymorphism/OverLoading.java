@@ -17,8 +17,8 @@ public class OverLoading {
 
 	public static void main(String[] args) {
 		Add1 a=new Add1();
-		a.sum(12, 4);
-		a.sum(98, 4, 3);
+		a.sum(67, 4);
+		a.sum(9, 4, 3);
 	}
 
 }
