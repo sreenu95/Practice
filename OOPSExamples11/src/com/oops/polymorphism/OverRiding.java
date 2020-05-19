@@ -13,7 +13,7 @@ class Learn extends Student
 	public void read() {
 		// TODO Auto-generated method stub
 		//super.read();
-		System.out.println("learning");
+		System.out.println("reading");
 	}
 	
 }
