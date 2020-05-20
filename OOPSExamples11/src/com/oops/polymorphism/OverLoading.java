@@ -1,4 +1,11 @@
 package com.oops.polymorphism;
+/*
+ * what is static and dynamic polymorphism 
+ * usage of two types
+ * create classes for static and dynamic polymorphism
+ * create classes for overloading and overriding
+ * explore the rules
+ * */
 class Add
 {
 	public static void  sum(int a, int b)

@@ -1,4 +1,10 @@
 package com.oops.Inheritance;
+
+/*
+errors: 
+=> follow the naming convention 
+explain what is the use of inheritance and it's types
+*/
 class phone
 {
 	int sid;
