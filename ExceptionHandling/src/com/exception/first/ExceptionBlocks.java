@@ -1,4 +1,13 @@
 package com.exception.first;
+/*
+ * create three packages for
+ * checked exceptions
+ * un-checked exceptions
+ * user defined exceptions
+ * in that create classes for try catch,finally those combinations
+ * using throws
+ * 
+ * */
 
 public class ExceptionBlocks {
 
