@@ -18,7 +18,7 @@ class Learn extends Student
 	
 }
 
-public class OverRiding {
+public class DynamicPolymorphism {
 
 	public static void main(String[] args) {
 		

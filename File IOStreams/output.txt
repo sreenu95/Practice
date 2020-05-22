@@ -26,11 +26,3 @@ content of the fileinput2.txt
 222
 333
 444
-content of the filemalli.txt
-malli
-goud
-mca
-3rd year
-mpl
-mits
-angallu

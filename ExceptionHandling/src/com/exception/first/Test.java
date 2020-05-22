@@ -9,7 +9,7 @@ public class Test {
 		}
 		catch(ArithmeticException e)
 		{
-			e.printStackTrace();
+			e.printStackTrace(); 
 			//System.out.println(10/2);
 			
 			/*

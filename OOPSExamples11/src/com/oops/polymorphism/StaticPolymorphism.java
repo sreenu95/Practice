@@ -20,7 +20,7 @@ class Add1 extends Add
 		System.out.println("sum of 3 numbers is"+(a+b+c));
 	}
 }
-public class OverLoading {
+public class StaticPolymorphism {
 
 	public static void main(String[] args) {
 		Add1 a=new Add1();
